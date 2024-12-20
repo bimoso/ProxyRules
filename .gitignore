@@ -1,0 +1,7 @@
+# Ignorar binarios y archivos de respaldo
+.idea/
+bin/
+Respaldo.cs
+.vs/
+qodana.yaml
+obj/
