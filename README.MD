@@ -1,4 +1,4 @@
-[English](https://github.com/bimoso/Proxy-Rules/blob/main/README-US.md)
+[English](https://github.com/bimoso/ProxyRules/blob/main/README-US.md)
 # Proxy Rules Manager 🚀
 
 Aplicación sencilla para administrar reglas de proxy, permitiendo agregar, editar, eliminar y guardar configuraciones de manera rápida.
@@ -19,7 +19,7 @@ Aplicación sencilla para administrar reglas de proxy, permitiendo agregar, edit
 ## Instalación 🛠️
 1. Clona el repositorio:
     ```bash
-    git clone https://github.com/yourusername/proxy-rules-manager.git
+    git clone https://github.com/bimoso/ProxyRules.git
     ```
 2. Abre la solución en Visual Studio o tu IDE preferido.
 3. Restaura los paquetes NuGet.

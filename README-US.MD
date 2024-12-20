@@ -18,7 +18,7 @@ Simple application to manage proxy rules, allowing you to add, edit, delete, and
 ## Installation 🛠️
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/proxy-rules-manager.git
+    git clone https://github.com/bimoso/ProxyRules.git
     ```
 2. Open the solution in Visual Studio or your preferred IDE.
 3. Restore the NuGet packages.
